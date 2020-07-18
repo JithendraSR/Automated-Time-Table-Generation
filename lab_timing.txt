@@ -1,0 +1,6 @@
+3C 5B 3B 
+3A 3C 5C 
+3B 3A 5C 
+5A 3C 3B 
+7A 5B 3A 
+7B 5A -1 
